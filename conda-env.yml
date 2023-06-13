@@ -272,4 +272,4 @@ dependencies:
       - tokenizers==0.13.2
       - transformers==4.27.4
       - typing-inspect==0.8.0
-prefix: /Users/xuwenhao/miniconda3/envs/geektime
+prefix: /Users/huangzg/miniconda3/envs/geektime
